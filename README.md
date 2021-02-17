@@ -1,3 +1,8 @@
+# This is a NFT factory pattern for Prof Dave McKay's class.
+# Shivam Rattan 101339648
+
+
+
 ## OpenSeaCreatures ERC721 contracts
 
 ### About OpenSeaCreatures.
