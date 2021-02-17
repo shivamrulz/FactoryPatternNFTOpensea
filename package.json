@@ -1,0 +1,22 @@
+{
+  "name": "NFT Factory token opensea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "deploy-rinkeby": "truffle deploy --network rinkeby"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "@truffle/hdwallet-provider": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.0.26",
+    "truffle": "^5.1.63",
+    "truffle-flattener": "^1.5.0"
+  }
+}
